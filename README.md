@@ -1,3 +1,3 @@
 # audiophile-ecommerce
 
-## Go to [Wiki](https://github.com/Hyeyoung-Lucia/audiophile-ecommerce/wiki)
+## Go to [Wiki](https://github.com/HakunaMatata9115/audiophile-ecommerce/wiki)
